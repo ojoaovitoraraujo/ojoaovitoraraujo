@@ -27,14 +27,14 @@ import FrontEndStudent from 'ojoaovitoraraujo';
 
 class Bio extends FrontEndStudent {
   name    = 'João Vitor Oliveira Araujo';
-  title   = ' FrontEnd Developer Student';
+  title   = 'FrontEnd Developer Student';
 }
 
 class Skills extends FrontEndStudent {
-  languages = ['Javascript', 'PHP', 'C', 'C#', 'HTML', 'Css', 'Dart'];
-  databases = ['SQL Server', 'MySQL', 'OracleSQL'];
+  languages  = ['Javascript', 'PHP', 'C', 'C#', 'HTML', 'Css', 'Dart'];
+  databases  = ['SQL Server', 'MySQL', 'OracleSQL'];
   Frameworks = ['Laravel', 'Flutter', 'Bootstrap', 'Angular'];
-  Tools = ['Visual Studio Code', 'Adobe XD, 'Figma', 'Git', 'Github'];
+  Tools      = ['Visual Studio Code', 'Adobe XD', 'Figma', 'Git', 'Github'];
 }
   
 
