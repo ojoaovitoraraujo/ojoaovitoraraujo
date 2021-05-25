@@ -33,7 +33,7 @@ class Bio extends FrontEndStudent {
 class Skills extends FrontEndStudent {
   languages  = ['Javascript', 'PHP', 'C', 'C#', 'HTML', 'Css', 'Dart'];
   databases  = ['SQL Server', 'MySQL', 'OracleSQL'];
-  Frameworks = ['Laravel', 'Flutter', 'Bootstrap', 'Flutter'];
+  Frameworks = ['Laravel', 'Flutter', 'Bootstrap', 'Materialize'];
   Tools      = ['Visual Studio Code', 'Adobe XD', 'Figma', 'Git', 'Github'];
 }
   
