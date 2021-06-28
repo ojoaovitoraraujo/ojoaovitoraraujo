@@ -53,7 +53,7 @@ class Skills extends FrontEndStudent {
 <div align="center">
 
 
-(https://github-readme-stats.vercel.app/api?username=ojoaovitoraraujo&&theme=dark&show_show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojoaovitoraraujo&langs_count=7&hide=html&theme=dark&layout=compact)](https://github.com/ojoaovitoraraujo/github-readme-stats)
+![ojoaovitoraraujo status](https://github-readme-stats.vercel.app/api?username=ojoaovitoraraujo&&theme=dark&show_show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojoaovitoraraujo&langs_count=7&hide=html&theme=dark&layout=compact)](https://github.com/ojoaovitoraraujo/github-readme-stats)
 
 
 </div>
