@@ -10,7 +10,6 @@ A Full Stack Developer from Minas Gerais/Brazil
   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="http://ojoaovitoraraujo.site/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/3083/3083728.png" alt="ojoaovitoraraujo" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/joaovitoraraujo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ojoaovitoraraujo" height="40" width="50" /></a>
 <a href="https://instagram.com/ojoaovitoraraujo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ojoaovitoraraujo" height="40" width="50" /></a>
 </p>
