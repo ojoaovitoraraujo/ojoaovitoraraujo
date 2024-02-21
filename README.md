@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hello there, I'm {João Vitor}! 👋 
-A UX Designer and Front End Developer from Minas Gerais/Brazil
+A Full Stack Developer from Minas Gerais/Brazil
 
 </div>
 
