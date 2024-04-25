@@ -1,62 +1,61 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm João Araujo</h1>
 
-# Hello there, I'm {João Vitor}! 👋 
-A Full Stack Developer from Minas Gerais/Brazil
+Information Systems student at [UNIFEI](https://unifei.edu.br/), with over 3 years of solid experience in Full Stack Development, I am a professional committed to technical excellence and innovation. Focused on continuous learning and improvement as a developer, I have gained valuable insights from incredible developers who have been and continue to be by my side.
 
-</div>
 
----
-  
-  
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/joaovitoraraujo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ojoaovitoraraujo" height="40" width="50" /></a>
-<a href="https://instagram.com/ojoaovitoraraujo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ojoaovitoraraujo" height="40" width="50" /></a>
+<br>
+
+- 🔭 I’m currently working on **Indoor data modeling for geospatial applications**
+
+- 🌱 I’m currently learning **React, Node**
+
+- 👯 I’m looking to collaborate on [Awesome CityGML](https://github.com/OloOcki/awesome-citygml)
+
+- 💬 Ask me about **.Net, Angular, Docker, Redis, Flutter, Kafka Node, React,**
+
+- 📫 How to reach me **jv.oliveraraujo@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/joaovitoraraujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaovitoraraujo" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16898860" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16898860" height="30" width="40" /></a>
+<a href="https://instagram.com/ojoaovitoraraujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ojoaovitoraraujo" height="30" width="40" /></a>
 </p>
+<br>
 
 
-<div align="center">
 
+### Languages and Technologies 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,cs,dotnet,docker,dart" />
+</a>
+<br><br>
 
-</div>
+### Frameworks, Libraries and Databses
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=angular,react,nodejs,redis,mongodb,mysql,postgres,materialui," />
+</a>
+<br><br>
 
-```javascript
+### Tools and Platforms
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,kafka,npm,postman" />
+</a>
 
-import FrontEndStudent from 'ojoaovitoraraujo';
+<br>
 
-class Bio extends FrontEndStudent {
-  name    = 'João Vitor Oliveira Araujo';
-  title   = 'FrontEnd Developer Student';
-}
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> My GitHub Stats
 
-class Skills extends FrontEndStudent {
-  languages  = ['Javascript', 'PHP', 'C', 'C#', 'HTML', 'Css', 'Dart'];
-  databases  = ['SQL Server', 'MySQL', 'OracleSQL'];
-  Frameworks = ['Laravel', 'Flutter', 'Bootstrap', 'Materialize'];
-  Tools      = ['Visual Studio Code', 'Adobe XD', 'Figma', 'Git', 'Github'];
-}
-  
+<details>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Engagement Level </summary>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=ojoaovitoraraujo&show_icons=true&theme=radical" alt="GitHub Stats">
+  </p>
+</details>
+<details>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> GitHub Streak </summary>
+  <p>
+    <img src="https://streak-stats.demolab.com?user=ojoaovitoraraujo&theme=radical&hide_border=true&locale=en" alt="GitHub Streak">
+  </p>
+</details>
 
-
-```
-<div align="center">
-
-  ### **Download Curriculum**
-  🔽  [Pt-Br.exe](http://ojoaovitoraraujo.site/downloads/JoaoVitorOAraujo.pdf) |  [Eng.exe](http://ojoaovitoraraujo.site/downloads/JoaoVitorOAraujo.pdf)  🔽 
-
-
-</div>
-
-
----
-<div align="center">
-
-
-![ojoaovitoraraujo status](https://github-readme-stats.vercel.app/api?username=ojoaovitoraraujo&&theme=dark&show_show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojoaovitoraraujo&langs_count=7&hide=html&theme=dark&layout=compact)](https://github.com/ojoaovitoraraujo/github-readme-stats)
-
-
-</div>
-
----
-
-### <div align="center"> 💻 Check Out My Repos ⬇️ </div>
