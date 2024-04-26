@@ -42,7 +42,7 @@ Information Systems student at [UNIFEI](https://unifei.edu.br/), with over 3 yea
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,kafka,npm,postman" />
 </a>
 
-<br>
+<br><br>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> My GitHub Stats
 
